@@ -8,6 +8,7 @@ This is a simple React project that generates random quotes from an external API
 - Provides a button to generate a new quote.
 - Shows a loading message while fetching new quotes.
 - Error handling in case of network or API issues.
+- Copy quote to clipboard.
 
 ## Live Demo
 [Live URL](https://random-quote-generator12.surge.sh/)
